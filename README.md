@@ -4,6 +4,12 @@ This Python script takes in input a folder with [RIS](http://goo.gl/onNO6)-forma
 
 It tries to format every entries in a python-friendly manner.
 
+## Dependencies
+
+Uses [gris](https://pypi.python.org/pypi/gris) module.
+
+    sudo easy_install gris
+
 ## Usage
 
     import WoS
